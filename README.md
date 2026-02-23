@@ -14,7 +14,7 @@ Focused on building intelligent systems, automation tools, and modern web applic
 
 🚀 Currently building AI-powered chat systems and advanced web applications  
 
-📫 How to reach me: **tuckermicheal866@gmail.com**
+📫 How to reach me: **michaelmadroyd.dev@gmail.com**
 
 📄 Know about my experiences: (Resume link coming soon)
 
