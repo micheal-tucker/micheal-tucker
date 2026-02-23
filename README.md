@@ -1,7 +1,8 @@
-### Hi there 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Chatbot+Developer;I+Build+Smart+Bots;Full+Stack+%2B+Cybersecurity+Enthusiast" />
 </p>
+
+### Hi there 👋
 
 I am a Self-Motivated and Passionate Software Developer from Sierra Leone 🇸🇱  
 Focused on building intelligent systems, automation tools, and modern web applications.
