@@ -47,40 +47,24 @@ LinkedIn: (Coming Soon)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
-<!-- Vite -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45"/>
-
-<!-- Figma -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-
-<!-- Material UI -->
 <img src="https://cdn.simpleicons.org/mui/007FFF" width="45" height="45"/>
-
-<!-- Backend -->
-<h3>Backend Development</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
 
 <!-- Databases -->
-<h3>Databases</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
 
 <!-- Authentication & Security -->
-<h3>Authentication & Security</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>
 <!-- JWT -->
 <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="45" height="45"/>
-
-<!-- Programming -->
-<h3>Programming Languages</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 
 <!-- DevOps & Deployment -->
-<h3>DevOps & Deployment</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 <!-- GitHub Actions -->
@@ -88,10 +72,6 @@ LinkedIn: (Coming Soon)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" height="45"/>
-
-<!-- Development Tools -->
-<!-- AI & APIs -->
-<h3>AI & API Integration</h3>
 <img src="https://cdn.simpleicons.org/openai/ffffff" width="45" height="45"/>
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
