@@ -28,8 +28,6 @@ Focused on building intelligent systems, automation tools, and modern web applic
 
 ### 🤝 Connect with me:
 
-🤝 Connect With Me
-
 <p align="center"> <a href="https://github.com/micheal-tucker"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/michael-tucker-5ba2163b6/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://michaelmadroyd.dev.netlify.com"> <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" /> </a> <a href="https://wa.me/23233600867"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
 
 <p align="center"> <strong>📧 Email:</strong> michaelmadroyd.dev@gmail.com </p>
