@@ -30,7 +30,12 @@ Focused on building intelligent systems, automation tools, and modern web applic
 
 <p align="center"> <a href="https://github.com/micheal-tucker"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/michael-tucker-5ba2163b6/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://michaelmadroyd.dev.netlify.com"> <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" /> </a> <a href="https://wa.me/23233600867"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p>
 
-<p align="center"> <strong>📧 Email:</strong> michaelmadroyd.dev@gmail.com </p>
+<p align="center">
+  <a href="mailto:michaelmadroyd.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-michaelmadroyd.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
@@ -89,14 +94,25 @@ Focused on building intelligent systems, automation tools, and modern web applic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" />
 </p>
 
-<h4>Development Tools & Operating Systems</h4>
+<h4>AI & Automation</h4>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" />
+  <img src="https://cdn.simpleicons.org/openai/ffffff" width="45" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" />
+  <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="45" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" />
 </p>
+
+
+<h4>🔐 Cybersecurity & Application Security</h4> 
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="45" /> <img src="https://cdn.simpleicons.org/owasp/000000" width="45" /> <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" /> 
+</p> <p> Web Security • Authentication • JWT • Security Testing • Linux • Kali Linux • OWASP • Network Analysis </p>
+
+<h4>☁️ DevOps, Cloud & Deployment</h4>
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" /> <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" /> </p> <p> Git • GitHub • GitHub Actions • Docker • Vercel • Netlify • Nginx • CI/CD </p>
+
+<h4>🛠️ Development Tools & Operating Systems</h4> <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" /> </p> <p> VS Code • Postman • Linux • Bash • Kali Linux </p>
+
 ---
 
 🔥 *"Consistency and discipline turn small skills into powerful mastery."*
