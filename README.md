@@ -96,7 +96,6 @@ Focused on building intelligent systems, automation tools, and modern web applic
 
 <h4>AI & Automation</h4>
 <p>
-  <img src="https://cdn.simpleicons.org/openai/ffffff" width="45" />
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" />
   <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="45" />
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" />
@@ -105,14 +104,34 @@ Focused on building intelligent systems, automation tools, and modern web applic
 
 
 <h4>🔐 Cybersecurity & Application Security</h4> 
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="45" /> <img src="https://cdn.simpleicons.org/owasp/000000" width="45" /> <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" /> 
-</p> <p> Web Security • Authentication • JWT • Security Testing • Linux • Kali Linux • OWASP • Network Analysis </p>
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /> 
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" /> 
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="45" /> 
+  <img src="https://cdn.simpleicons.org/owasp/000000" width="45" /> 
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" /> 
+</p>
 
 <h4>☁️ DevOps, Cloud & Deployment</h4>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" /> <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" /> </p> <p> Git • GitHub • GitHub Actions • Docker • Vercel • Netlify • Nginx • CI/CD </p>
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" /> 
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" /> 
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="45" /> 
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" /> 
+</p>
 
-<h4>🛠️ Development Tools & Operating Systems</h4> <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" /> <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" /> </p> <p> VS Code • Postman • Linux • Bash • Kali Linux </p>
-
+<h4>🛠️ Development Tools & Operating Systems</h4> 
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" /> 
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" />
+</p>
 ---
 
 🔥 *"Consistency and discipline turn small skills into powerful mastery."*
